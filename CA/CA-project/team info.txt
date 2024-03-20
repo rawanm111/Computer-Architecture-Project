@@ -1,0 +1,10 @@
+team number 5
+package 2 (Double McHarvard with cheese circular shifts)
+
+
+names              id                tutorial
+Zeina Elmofty     52-13871           10
+Karol Adel        52-0954            10
+Rawan Mohamed     52-6442            10
+Aya wael          52-7090            10
+Omar Mansour      52-21296           10
